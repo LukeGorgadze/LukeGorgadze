@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka Gorgadze</h1>
 <h3 align="center">Undergraduate CS student from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukegorgadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukegorgadze" /> </p>
-
 - 🔭 I’m currently working at [HappyBat](https://www.happybat.com)
 
 - 🌱 I’m currently learning **Full-stack development**
