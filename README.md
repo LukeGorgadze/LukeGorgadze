@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukegorgadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukegorgadze" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukegorgadze" alt="lukegorgadze" /></a> </p>
-
 - 🔭 I’m currently working at [HappyBat](https://www.happybat.com)
 
 - 🌱 I’m currently learning **Full-stack development**
