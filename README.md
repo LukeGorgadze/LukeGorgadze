@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luka Gorgadze</h1>
 <h3 align="center">Undergraduate CS student from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukegorgadze&label=Profile%20views&color=0e75b6&style=flat" alt="lukegorgadze" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukegorgadze" alt="lukegorgadze" /></a> </p>
-
 - 🔭 Former developer at [HappyBat](https://www.happybat.com)
 
 - 🌱 I’m currently learning **Full-stack development**
@@ -26,7 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/justlukegoa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="justlukegoa" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukegorgadze&show_icons=true&locale=en&layout=compact" alt="lukegorgadze" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukegorgadze&" alt="lukegorgadze" /></p>
