@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luka Gorgadze</h1>
 <h3 align="center">Undergraduate CS student from Georgia</h3>
 
-- 🔭 Former developer at [HappyBat](https://www.happybat.com)
+- 🔭 Former Unity developer at [HappyBat](https://www.happybat.com)
 
 - 🌱 I’m currently learning **Full-stack development**
 
